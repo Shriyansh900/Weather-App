@@ -1,7 +1,3 @@
-Here’s a polished and professional description for your weather app GitHub repository:
-
----
-
 ## 🌤️ Weather App
 
 ### **Description**  
